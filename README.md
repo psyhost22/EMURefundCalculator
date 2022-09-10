@@ -10,16 +10,16 @@ HOW TO USE:
 
 Credit costs are based off current 2022 rates of credit hours:
 
-Undergraduate Tuition (per credit hour)
-12-16: $7250 Flat Block Tuition Rate
-1-11: $608 per credit hour
-17+: $7250 for 16 credits (Block Tuition Rate) + $608 for each additional credit hour
+Undergraduate Tuition (per credit hour):
+- 12-16: $7250 Flat Block Tuition Rate
+- 1-11: $608 per credit hour
+- 17+: $7250 for 16 credits (Block Tuition Rate) + $608 for each additional credit hour
 
 Graduate Tuition (per credit hour)
 Resident:
-    500-699: $938.50
-    700 and above: $1074.00
+- 500-699: $938.50
+- 700 and above: $1074.00
 
 Non-Resident:
-    500-699: $1626.50
-    700 and above: $1834.00
+- 500-699: $1626.50
+- 700 and above: $1834.00
